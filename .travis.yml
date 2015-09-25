@@ -2,6 +2,7 @@ language: android
 
 script:
 - gradle :app123:test
+- gradle :app130:test
 - gradle :app131:test
 
 android:
