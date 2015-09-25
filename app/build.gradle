@@ -17,8 +17,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.codehaus.groovy:groovy:2.4.5:grooid'
-    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'org.codehaus.groovy:groovy:2.4.4:grooid'
     testCompile 'junit:junit:4.12'
 }
 
