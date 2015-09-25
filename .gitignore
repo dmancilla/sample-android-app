@@ -3,7 +3,8 @@
 /.idea
 /build
 
-/app/build
+/app123/build
+/app131/build
 
 gradlew
 gradlew.bat
