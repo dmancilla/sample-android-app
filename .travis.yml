@@ -1,6 +1,8 @@
 language: android
 
-script: gradle test
+script:
+- gradle :app123:test
+- gradle :app131:test
 
 android:
   components:
