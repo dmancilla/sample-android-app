@@ -4,6 +4,7 @@ script:
 - gradle :app123:test
 - gradle :app130:test
 - gradle :app131:test
+- gradle :app150:test
 
 android:
   components:
