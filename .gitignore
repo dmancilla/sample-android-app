@@ -1,10 +1,7 @@
 *.iml
-/.gradle
-/.idea
-/build
-
-/app123/build
-/app131/build
+.gradle
+.idea
+build
 
 gradlew
 gradlew.bat
